@@ -20,4 +20,10 @@ Iniciativas e aplicações relacionadas a transparência  na âmbito das casas l
 
 [Cota Parlamentar da Câmara Municipal de Natal/RN](https://github.com/dadosabertosrn/cota_parlamentar)
 
+[Portal de Transparência da Câmara Municipal de Natal/RN](https://www.cmnat.rn.gov.br/portal-da-transparencia)
+
+[Portal de Transparência da Câmara Muicipal de Parnamirim/RN](https://cmparnamirimrn.transparencia.topsolutionsrn.com.br/)
+
+[Portal de Transparência da Câmara Municipal de São Gonçalo do Amarante/RN](https://www.saogoncalodoamarante.rn.leg.br/transparencia)
+
 [Avaliação dos Portais da Transparência implantados pelas Câmaras Municipais de Alagoas](https://sistemas.mpal.mp.br/TransparenciaLegislativoMunicipal/)
